@@ -48,20 +48,32 @@ c
 	-r copies an entire folder.
 
 2
+	1.
 	Git is the software allowing things we want to happen to happen as necessary
 	Bash allows the user to interract with the Git. Github allows the sharing of the source
 	code/files with others. It is in essence, a cloud system.
 	
+	2.
 	Terminal is the GUI part where the commands are written and the Command Line is the place 
 	with the comamnd that is being written.
 
+	3.
+	Powershell is the Windows version of the command system Gitbash is the Mac?? Apple Version???
+	which uses different code
+	
+	4.
+	Anaconda is used for convenient to use for science. VS Code usesdoes is capable of doing this
+	 and more. Conda is the part that created the "isolated environment"???
 
+	5.
+	Jupyter according to my own experience is more useful for science usage as it already comes
+	prepackaged with things needed for science such as pyplot, numpy, math and such. Jupyterlab 
+	comes with about the same thing, The appearance seems to be different, jUPYTERLAB Allows
+	the use of console which Jupyter does not.
 
-
-
-
-
-
+	6.
+	VS Code is a code editor/IDE which allows versatility in coding language beyond what Jupyter
+	might allow. From memory, it can EVEN DO R code.
 
 
 
