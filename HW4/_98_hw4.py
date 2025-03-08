@@ -31,14 +31,13 @@ def two3(ls2):
 ls3=two3(ls2)
 print(ls3)
 #2.4
-print("Debug: ls2 =", ls2)
 print("2.4")
 def two4(ls2):
 	return ls2[4::5]
 ls4=two4(ls2)
 print(ls4)
 '''
-Striding was causing an error by displaying the 6th value instead of the fifth.
+Striding was causing an error by displaying the 6th value instead of the fifth when "return ls2[::5]" was used.
 Logic Error assumed.
 Fixed by assigning the first value to be element 4 rather than 0. Further methods will be attempted and if this line exists, solution not found
 
@@ -57,8 +56,6 @@ No significant errors
 print("3.1")
 def thr1():
 	ma1=[]
-	print(type(ma1))
-	print(ma1)
 	m=1
 	for i in range(5):
 		m1=[0,0,0,0,0]
