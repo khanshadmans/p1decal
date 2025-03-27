@@ -24,9 +24,11 @@ To complete this homework, follow these steps:
 
 5) Answer these questions in your `awesome.txt` file:
 - What command lists all branches in your repository, including both local and remote tracking branches?
+	> git branch -a
 - What does `remotes/origin/HEAD -> origin/main` mean?
+	> That main is the default branch of the copied file.
 - How is it different from `remotes/origin/main` and just `main`? 
-
+	> main is local. remote origin main is not locally available
 6) Add, commit and push your `extra_credit_hw` branch from your local `<YOUR_NAME>_decal` repostory to your remote repository. Take a screenshot.
 
 7) Upload ONLY your `extra_credit_hw` branch to Gradescope! Make sure the only files inside are:
